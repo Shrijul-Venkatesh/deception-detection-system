@@ -37,3 +37,5 @@ The audio engine also requires a MATLAB add-on called "Audio Toolbox". To add th
 - Click on "Install" to install the toolbox
 
 After installing the necessary software, the MU3D dataset must be installed, which can be found [here](https://sc.lib.miamioh.edu/handle/2374.MIA/6067). Although the dataset is licensed under the Creative Commons License, it is required to send a usage agreement to the owner of the dataset Emily Paige Lloyd (Miami University) in order to gain access to the dataset. Once authorized, download the dataset into the same parent directory as the project and split the videos into 2 folders, namely the "audio_set" and the "video_set", by running the audio_video_split.py file.
+
+create a new csv file called mfcc_features.csv in the deception-detection-engine folder
